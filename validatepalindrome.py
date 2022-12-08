@@ -1,2 +1,0 @@
-def ValidatePalindrome(x):
-
